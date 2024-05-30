@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tiwarigauri&label=Profile%20views&color=0e75b6&style=flat" alt="tiwarigauri" /> </p>
 
-- 🔭 I’m currently working on **MERN STACK PROJECT**
+- 🔭 I’m currently working on **JAVA STACK PROJECT**
 
 - 💬 Ask me about **DSA, JAVA FULL STACK, MERN STACK, SYSTEM DESIGN, CS FUNDAMENTALS**
 
