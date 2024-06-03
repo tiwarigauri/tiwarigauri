@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Gauri Tiwari</h1>
 <h3 align="center">🌟 Software Development Engineer | Full Stack Developer</h3>
 
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif">
+<img align="right" alt="coding" width="300" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tiwarigauri&label=Profile%20views&color=0e75b6&style=flat" alt="tiwarigauri" /> </p>
 
