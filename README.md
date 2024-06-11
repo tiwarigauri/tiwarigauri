@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **JAVA STACK PROJECT**
 
-- 💬 Ask me about **DSA, JAVA FULL STACK, MERN STACK, SYSTEM DESIGN, CS FUNDAMENTALS**
+- 💬 Ask me about **DSA, JAVA FULL STACK, MERN STACK**
 
 - 📫 How to reach me **gaury.tiwary@gmail.com**
 
