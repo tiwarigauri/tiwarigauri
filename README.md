@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tiwarigauri&label=Profile%20views&color=0e75b6&style=flat" alt="tiwarigauri" /> </p>
 
-- 🔭 I’m currently working on **SPRING + REACTJS + MYSQL PROJECT**
+- 🔭 I’m currently working on **SPRINGBOOT + REACTJS + MYSQL PROJECT**
 
 - 💬 Ask me about **DSA, SPRING FRAMEWORK, REACTJS**
 
